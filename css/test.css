@@ -1,0 +1,22 @@
+.page{
+    width: 1000px;
+}
+.name{
+    height: 200px;
+    width: 100%;
+    background: green;
+}
+.contact{
+    width: 250px;
+    height: 1000px;
+    background: deeppink;
+    margin-top: -150px;
+    margin-left: 50px;
+    float: left;
+    box-sizing: border-box;
+}
+.content{
+    background: black;
+    height: 1000px;
+    margin-left: 50px;
+}
