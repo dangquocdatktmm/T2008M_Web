@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d84dbb7c-7855-42c0-b22b-eead0ecab0de" name="Default Changelist" comment="dfdfd">
-      <change afterPath="$PROJECT_DIR$/css/lab4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/ss3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/hocthem1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ss6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hocthem1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/icon-email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lab4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +48,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iWtmMJZxQRWItbuPkCiMGLTBYI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -83,7 +90,9 @@
       <workItem from="1602047250953" duration="10000" />
       <workItem from="1602146598749" duration="8971000" />
       <workItem from="1602208041143" duration="7940000" />
-      <workItem from="1602466344041" duration="7263000" />
+      <workItem from="1602466344041" duration="7813000" />
+      <workItem from="1602482285126" duration="9352000" />
+      <workItem from="1602813414908" duration="7716000" />
     </task>
     <task id="LOCAL-00001" summary="dfdfd">
       <created>1602156407602</created>
@@ -92,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602156407602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dfdfd">
+      <created>1602478387816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602478387818</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dfdfd">
+      <created>1602478783115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602478783115</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +134,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dfdfd" />
     <option name="LAST_COMMIT_MESSAGE" value="dfdfd" />
   </component>
@@ -123,13 +147,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602035590984" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602156409834">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602478393382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602156409834" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602478393382" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602156106955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602156106955" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602819351622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602819351622" />
   </component>
 </project>
